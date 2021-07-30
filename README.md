@@ -1,8 +1,5 @@
 ### Olá, eu sou o Alvimar Vilanova 👋
 
-- 🔭 Hoje trabalho com backend
-- 🐍 Estudando Python
-
  <div>
   <a href="https://github.com/junio102">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=junio102&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
