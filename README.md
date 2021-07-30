@@ -1,6 +1,6 @@
 ### Olá, eu sou o Alvimar Vilanova 👋
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com backend
 - 🐍 Estudando Python
 
  <div>
