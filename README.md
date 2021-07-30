@@ -1,7 +1,7 @@
 ### Olá, eu sou o Alvimar Vilanova 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Python
+- 🐍 Estudando Python
 
  <div>
   <a href="https://github.com/junio102">
